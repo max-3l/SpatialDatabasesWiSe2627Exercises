@@ -4,6 +4,13 @@ Welcome to the repository for the exercises of the lecture *Spatial Databases*. 
 
 Read the `README.md` within each folder. It describes what we expect of you to solve the exercise.
 
+## AI Guideline
+
+Do **not** use AI in any form (coding assistants, tab completion, chat, etc.) to solve the tasks.
+The exercises are designed to help you understand the fundamentals and to prepare you for the exam.
+If you do not have enough time to finish, leave tasks unsolved instead of letting AI solve the rest.
+We reserve the right to ask you for a detailed in-person explanation of your submission whenever we suspect the use of AI.
+
 ## Submitting Solutions
 
 Submissions are generally handled over the assignment management in [Moodle](https://moodle.hpi.de/course/view.php?id=1236) by uploading changed files, if not stated otherwise in the `README.md` of the exercise.
